@@ -59,4 +59,10 @@ A fully interactive and visually styled **Tic Tac Toe** game built with vanilla 
 - **UI Updates:** Uses dynamic class names to draw animated strike lines for winning conditions
 
 ---
+## 💻 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Harsh-Raj4618/tic-tac-toe.git
+   cd tic-tac-toe
 
