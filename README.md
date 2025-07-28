@@ -4,12 +4,6 @@ A fully interactive and visually styled **Tic Tac Toe** game built with vanilla 
 
 ---
 
-## 🔗 Live Demo
-
-> *(Optional: add link if hosted on GitHub Pages, Netlify, etc.)*
-
----
-
 ## 🚀 Features
 
 - ✅ Classic 3×3 Tic Tac Toe board
